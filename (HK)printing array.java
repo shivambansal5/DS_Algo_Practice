@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class HKprintingarray {
 
     public static void main(String[] args) {
 	   

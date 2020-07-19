@@ -1,5 +1,5 @@
 import java.util.*; 
-public class Main 
+class BinarySearch
 {
     public static void main(String[] args)
     {
@@ -11,6 +11,8 @@ public class Main
         {
             a[i]=myobj.nextInt();
         }
+        myobj.close();
+
         Arrays.sort(a);
         int lb=0;
         int ub=n-1;
